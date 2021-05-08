@@ -1,0 +1,4 @@
+[submodule "yunbinblog/public"]
+	path = yunbinblog/public
+	url = https://github.com/kimyunbin/kimyunbin.github.io.git
+	branch = main

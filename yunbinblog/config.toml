@@ -1,0 +1,4 @@
+baseURL = "https://kimyunbin.github.io/"
+languageCode = "en-us"
+title = "Yunbin's Devlog"
+theme = "hugo-casper3"
